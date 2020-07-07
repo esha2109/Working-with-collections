@@ -1,0 +1,15 @@
+NET .22 – In class assignment – Working with collections 
+Week 2
+Part 1:
+Construct a dictionary (Dictionary<string, city>) containing a collection of Canadian provincial capital cities (you can use Google here).  The dictionary must have the following properties:
+1.	The dictionary key must be the city name
+2.	The dictionary value must contain an object that you create containing at least 2 properties 1) the population of the city and 2) the province in which the city is located
+Populate the dictionary with each capital city.  Loop through the populated dictionary and display the following text “[City] is a city in [Province]” replacing [City] with the city name and [Province] with the province name.
+Part 2: 
+Construct a set (HashSet<T>) containing the top 10 North American cities by population (again use Google).  The set needs only to contain the city names.
+Part 3:
+Using the set constructed in part 2 and the dictionary constructed in part 1, determine which of the Canadian provincial capital cities are also in the set of top 10 largest North America cities (intersection).  Write to the console “[City] is in Canada and also in the top 10 largest cities in North America.” and replace [City] with the city names for each city name. 
+
+Please construct the code that fulfills these requirements.  On completion please paste into DotNetFiddle (make sure it still works), save and mail the URL to lynda.yearwood@humber.ca.
+
+Remember: keep it simple and SOLID 
